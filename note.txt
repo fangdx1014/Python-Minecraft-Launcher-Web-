@@ -1,0 +1,37 @@
+欢迎使用由fangdx1014开发的简易Python 网页 Minecraft 启动器！
+您可以关注fangdx1014的bilibili账号或者向fangdx_369@163.com、fangdx_369@outlook.com来提供建议。
+fangdx1014的bilibili账号：https://space.bilibili.com/3690997611498020?spm_id_from=333.1007.0.0
+好了，请敬请使用这个使用 Python 来编写的简易 Minecraft 启动器吧！
+（不想玩网页可以打开里面的PCL2游玩。）
+
+
+更新日志：
+1.0 Beta：最初的成型，可满足大部分场景需求，纯 Python 编写，也研究出了 exe 版本。
+基于 eaglecraft.ir 制造。暂未实现内置图标，文件夹内配套logo.ico为项目图标，请手动添加。
+制造：方东煦
+评测：方东煦、doubao.com
+
+1.1 Beta（代号泡芙）：可满足大部分场景需求，纯 Python 编写，也研究出了 exe 版本。
+基于 eaglecraft.ir 制造。暂未实现内置图标，文件夹内配套logo.ico为项目图标，请手动添加。
+[新增] 密码功能和版本查看的小彩蛋。
+制造：方东煦
+评测：方东煦、doubao.com
+
+Lite version（代号法棍）：精简掉了大部分功能，只保留核心。
+基于 eaglecraft.ir 制造。。
+精简掉的功能：所有彩蛋、版本里的lemon跳转到bilibili、Scratch 版本、版本文件夹里的彩蛋、密码功能。
+制造：方东煦
+评测：方东煦、doubao.com
+
+1.2 Beta（代号棒棒糖）：“互联生态”，纯 Python 编写，也研究出了 exe 版本。
+基于 eaglecraft.ir 制造。
+[新增] 服务器互联！！！
+制造：方东煦
+评测：方东煦，doubao.com，杨子琛
+
+1.3 Beta（代号派）：I CAN FIX IT!，纯 Python 编写，也研究出了 exe 版本。
+基于 eagrocraft.ir 制造。
+[修复] 修复了已知的逻辑问题。
+[新增] 启动标语，可以给玩家准备。
+制造：方东煦
+评测：方东煦
