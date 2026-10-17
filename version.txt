@@ -15,7 +15,7 @@ bilibili账号：https://space.bilibili.com/3690997611498020?spm_id_from=333.100
 评测：方东煦、doubao.com
 
 Lite version（代号法棍）：精简掉了大部分功能，只保留核心。
-基于 eaglecraft.ir 制造。。
+基于 eaglecraft.ir 制造。
 精简掉的功能：所有彩蛋、版本里的lemon跳转到bilibili、Scratch 版本、版本文件夹里的彩蛋、密码功能。
 制造：方东煦
 评测：方东煦、duobao.com
